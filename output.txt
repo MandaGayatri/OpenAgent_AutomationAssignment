@@ -37,13 +37,10 @@ Openjourney 4
  
 Prompt Content 
 
-
-
-
 crash course in prompt engineering & AI art generation
 Crash course in generative AI & prompt engineering for images
 @prompthero
- 
-UserName Function
- 
+
+
+UserName Function 
 LakshmiGayatri
