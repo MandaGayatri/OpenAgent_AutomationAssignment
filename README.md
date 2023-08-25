@@ -47,13 +47,13 @@ Selenium is used to interact with the web application, simulate user actions, an
 
 ### How to run the Project:
 
-   •	Install python libraries:
+   	Install python libraries:
 
       i.	Pip install pytest
       
       ii.	pip install selenium
       
-•	Navigate to Directory:
+### Navigate to Directory:
 
       i.	cd OpenAgent_AutomationAssignment
       
@@ -63,7 +63,9 @@ Selenium is used to interact with the web application, simulate user actions, an
       
       iii.	After execution   output.txt will be saved inside current directory where all scraped data is available
       
-•	Get git clone : https://github.com/MandaGayatri/OpenAgent_AutomationAssignment
+### Get git clone 
+ 
+ https://github.com/MandaGayatri/OpenAgent_AutomationAssignment
 
 
 ### Challenges Faced and Solutions Implemented:
