@@ -45,6 +45,27 @@ For each module, there are also separate test files that use pytest to run test 
 
 Selenium is used to interact with the web application, simulate user actions, and validate expected outcomes.
 
+### How to run the Project:
+
+   •	Install python libraries:
+
+      i.	Pip install pytest
+      
+      ii.	pip install selenium
+      
+•	Navigate to Directory:
+
+      i.	cd OpenAgent_AutomationAssignment
+      
+      ii.	Run the below command from current directory to run the project 
+      
+      Pytest
+      
+      iii.	After execution   output.txt will be saved inside current directory where all scraped data is available
+      
+•	Get git clone : https://github.com/MandaGayatri/OpenAgent_AutomationAssignment
+
+
 ### Challenges Faced and Solutions Implemented:
 
 Dynamic Content: The web application  has dynamically changing content, making it challenging to write stable tests.
