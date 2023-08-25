@@ -1,6 +1,6 @@
 ### Project Structure
 
-![Settings Window](https://github.com/MandaGayatri/WebScraping_Assignment/blob/main/assignment.PNG)
+![Settings Window](https://github.com/MandaGayatri/OpenAgent_AutomationAssignment/blob/main/FolderStructure.PNG)
 
 
 ### Approach:
