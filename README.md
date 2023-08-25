@@ -62,4 +62,4 @@ Conclusion:
  By structuring the project effectively and using proper automation techniques, challenges related to dynamic content and test data management are addressed.
 
 ### Output
-![Settings Window]( https://github.com/MandaGayatri/WebScraping_Assignment/blob/main/testpass.PNG)
+![Settings Window](https://github.com/MandaGayatri/OpenAgent_AutomationAssignment/blob/main/testpass.PNG)
