@@ -61,7 +61,7 @@ Selenium is used to interact with the web application, simulate user actions, an
       
       ii.	Run the below command from current directory to run the project 
       
-      Pytest
+      pytest
       
       iii.	After execution   output.txt will be saved inside current directory where all scraped data is available
       
