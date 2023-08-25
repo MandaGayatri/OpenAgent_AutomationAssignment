@@ -53,9 +53,9 @@ Selenium is used to interact with the web application, simulate user actions, an
       
       ii.	pip install selenium
 
-###  3)clone the repository : https://github.com/MandaGayatri/OpenAgent_AutomationAssignment
+### 2)clone the repository : https://github.com/MandaGayatri/OpenAgent_AutomationAssignment
       
-### 2)Navigate to Directory:
+### 3)Navigate to Directory:
 
       i.	cd OpenAgent_AutomationAssignment
       
